@@ -1,0 +1,28 @@
+_repo: Geological-Observations-on-South-America_3620
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf: South America
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'Paleontology'
+- !lcc 'QE'
+- !lcsh 'Geology -- South America'
+- !lcsh 'Mollusks, Fossil -- South America'
+title: Geological Observations on South America
+url: http://www.gutenberg.org/ebooks/3620
