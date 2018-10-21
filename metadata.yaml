@@ -1,5 +1,5 @@
 _repo: Geological-Observations-on-South-America_3620
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'QE'
 - !lcsh 'Geology -- South America'
 - !lcsh 'Mollusks, Fossil -- South America'
+- GITenberg
 title: Geological Observations on South America
 url: http://www.gutenberg.org/ebooks/3620
